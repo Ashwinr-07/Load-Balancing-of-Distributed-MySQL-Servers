@@ -14,9 +14,7 @@ This project demonstrates an efficient implementation of load balancing for dist
 5. [Configuration](#configuration)
 6. [Usage](#usage)
 7. [Performance Testing](#performance-testing)
-8. [Use Cases](#use-cases)
-9. [Learning Outcomes](#learning-outcomes)
-10. [Conclusion](#conclusion)
+8. [Conclusion](#conclusion)
 
 ## Introduction
 
